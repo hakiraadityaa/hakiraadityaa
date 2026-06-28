@@ -1,5 +1,5 @@
 <div align="center">  
-  <a href="https://instagram.com/syaaikoo">  
+  <a href="https://instagram.com/aaaditz_">  
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=CB9DF0&center=true&vCenter=true&multiline=true&width=500&height=80&lines=halloww%2C+aku+Adityaa+%F0%9F%92%96;Salam+kenal+yaa!!+%F0%9F%98%8A;Selengkapnya+ada+dibawah+ini+%E2%9C%A8" alt="Typing SVG" />  
   </a>  
   <br><br>  
@@ -13,7 +13,7 @@
 - 🌱 **Currently learning Lua code**  
 - 🎯 **Play Mobile Legends With Me?**  
   - ID : **792189301**  
-- 📧 **Business Email** → chansassya@gmail.com  
+- 📧 **Business Email** → nationa970@gmail.com 
   
 ---
 
@@ -32,20 +32,20 @@
 ### 🚀 Github Stats  
 
 <p align="center">  
-  <a href="https://github.com/syaaikoo">  
-    <img src="https://github-readme-stats.vercel.app/api?username=syaaikoo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000">  
+  <a href="https://github.com/hakiraadityaa">  
+    <img src="https://github-readme-stats.vercel.app/api?username=hakiraadityaa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000">  
   </a>  
 </p>  
 
 <p align="center">  
-  <a href="https://github.com/syaaikoo">  
-    <img src="https://streak-stats.demolab.com/?user=syaaikoo&theme=tokyonight&hide_border=true&background=00000000">  
+  <a href="https://github.com/hakiraadityaa">  
+    <img src="https://streak-stats.demolab.com/?user=hakiraadityaa&theme=tokyonight&hide_border=true&background=00000000">  
   </a>  
 </p>  
 
 <p align="center">  
-  <a href="https://github.com/syaaikoo">  
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syaaikoo&theme=tokyonight&layout=compact&hide_border=true&bg_color=00000000">  
+  <a href="https://github.com/hakiraadityaa">  
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakiraadityaa&theme=tokyonight&layout=compact&hide_border=true&bg_color=00000000">  
   </a>  
 </p>  
 
