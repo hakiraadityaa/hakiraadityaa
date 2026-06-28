@@ -63,8 +63,8 @@ Status  : Open to collaborative learning
   <a href="https://github.com/hakiraadityaa/termux-starter">  
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=hakiraadityaa&repo=termux-starter&theme=tokyonight&hide_border=true&bg_color=1a1b26" height="120" />  
   </a>  
-  <a href="https://github.com/hakiraadityaa/VelyTools-DownWebSoucre">  
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hakiraadityaa&repo=VelyTools-DownWebSoucre&theme=tokyonight&hide_border=true&bg_color=1a1b26" height="120" />  
+  <a href="https://github.com/hakiraadityaa/CINEMATIC-CAMERA-GUI-SYSTEM-CONTROL">  
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hakiraadityaa&repo=CINEMATIC-CAMERA-GUI-SYSTEM-CONTROL&theme=tokyonight&hide_border=true&bg_color=1a1b26" height="120" />  
   </a>  
 </p>  
 
@@ -88,10 +88,6 @@ Status  : Open to collaborative learning
   <a href="mailto:nationa970@gmail.com">
     <img src="https://img.shields.io/badge/Email-1a1b26?style=for-the-badge&logo=gmail&logoColor=D14836" />
   </a>
-</p>  
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/{aaaditz_}/count.svg" alt="Visitor Count" />
 </p>  
 
 ---
