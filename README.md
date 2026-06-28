@@ -24,7 +24,7 @@
 
 <p align="center">  
   <a href="https://wa.me/6281553362795?text=aii kak airaaa, aku dapet nomormu dari profil github ehehehe"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />  
-  <a href="https://instagram.com/syaaikoo"><img src="https://img.shields.io/badge/Instagram-syaaikoo-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /><br>  
+  <a href="https://instagram.com/aaaditz_"><img src="https://img.shields.io/badge/Instagram-aaaditz_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /><br>  
 </p>  
 
 ---
